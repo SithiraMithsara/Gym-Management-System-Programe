@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MongoDB">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Program Files/MongoDB" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
